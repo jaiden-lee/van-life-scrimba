@@ -11,3 +11,13 @@
 body {
     @apply bg-beige;
 }
+
+@layer components {
+    .orange-button {
+        @apply text-center text-white bg-vibrant-orange w-full box-border p-2 rounded-md font-semibold text-sm hover:bg-orange-500 transition-all;
+    }
+
+    .nav-link {
+        @apply hover:text-almost-black text-sm;
+    }
+}

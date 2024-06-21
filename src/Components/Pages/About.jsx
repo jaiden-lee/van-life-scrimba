@@ -24,7 +24,7 @@ function About() {
                         <br />Your van is ready.
                     </h3>
 
-                    <Link to="/vans" className="text-white font-medium text-sm bg-black max-w-full w-40 text-center box-border p-3 rounded-lg transition-all hover:scale-[1.015] active:scale-[.985] md:text-base">Explore our vans</Link>
+                    <Link to="/vans" className="text-white font-medium text-sm bg-almost-black max-w-full w-40 text-center box-border p-3 rounded-lg transition-all hover:scale-[1.015] active:scale-[.985] md:text-base">Explore our vans</Link>
                 </div>
             </div>
             

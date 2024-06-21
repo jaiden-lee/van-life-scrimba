@@ -7,7 +7,7 @@ function Homepage() {
             <div className="flex flex-col justify-center max-w-[30rem]">
                 <h1 className="font-extrabold text-3xl mb-4">You got the travel plans, we got the travel vans.</h1>
                 <p className="text-sm mb-8">Add adventure to your life by joining the #vanlife movement. Rent the perfect van to make your perfect road trip.</p>
-                <Link to="/vans" className="text-center bg-vibrant-orange w-full box-border p-2 rounded-md font-semibold text-sm hover:bg-orange-500 transition-all">Find your van</Link>
+                <Link to="/vans" className="orange-button">Find your van</Link>
             </div>
         </div>
     );
